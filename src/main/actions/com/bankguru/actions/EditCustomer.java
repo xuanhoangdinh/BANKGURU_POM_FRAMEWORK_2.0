@@ -6,8 +6,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.bankguru.ui.NewCustomerUI;
-
 import CommonPage.commonFunction;
 
 public class EditCustomer extends commonFunction {
@@ -93,11 +91,15 @@ public class EditCustomer extends commonFunction {
 	@FindBy(xpath = "//td[contains(text(),'Customer ID')]/following-sibling::td")
 	WebElement CUSTOMER_ID;
 
+//	public String getDynamicText(String value) {
+//		waitVisibleDynamicElement(NewCustomerUI.DYNAMIC_MSG, value);
+//		return getTextDynamicElement(NewCustomerUI.DYNAMIC_MSG, value);
+//	}
 	public String getDynamicText(String value) {
-		waitVisibleDynamicElement(NewCustomerUI.DYNAMIC_MSG, value);
-		return getTextDynamicElement(NewCustomerUI.DYNAMIC_MSG, value);
+		getTextDynamicXpath(value);
+		return getTextDynamicXpath(value);
 	}
-
+	
 	public void pressKeyTabCustomerId(Keys key) {
 		waitVisible(CUSTOMER_ID_TXT);
 		inputKeys(CUSTOMER_ID_TXT, key);

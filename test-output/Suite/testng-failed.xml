@@ -31,37 +31,12 @@
       </class> <!-- com.bankguru.testcase.EditCustomerScript -->
       <class name="com.bankguru.testcase.NewCustomerScript">
         <methods>
-          <include name="TC_25_inputspecialCharacterMobileNumber"/>
-          <include name="TC_21_pressTabMobileNumber"/>
-          <include name="TC_04_pressKeyTabCustomerName"/>
-          <include name="TC_16_2_inputPinCharacter"/>
-          <include name="TC_22_pressSpaceMobileNumber"/>
-          <include name="TC_29_pressTabEmail"/>
-          <include name="TC_03_inputNumberSpecialCharacterName"/>
-          <include name="TC_02_inputNumberCustomerName"/>
-          <include name="TC_12_pressKeyTabState"/>
-          <include name="TC_26_pressTabEmail"/>
-          <include name="TC_08_pressKeyTabCity"/>
-          <include name="TC_14_inputSpecialCharacterState"/>
-          <include name="TC_17_pressTabPin"/>
+          <include name="beforeMethod"/>
           <include name="beforeClass"/>
-          <include name="TC_19_inputPinspecialCharacter"/>
+          <include name="TC_27_1_inputEmailnotdoccom"/>
+          <include name="afterMethod"/>
           <include name="TC_30_inputnewCustomervalid"/>
           <include name="afterClass"/>
-          <include name="TC_05_pressKeyTabAddress"/>
-          <include name="TC_20_pressTabPin"/>
-          <include name="TC_01_PresskeyTab"/>
-          <include name="TC_13_inputNumberState"/>
-          <include name="TC_11_pressKeySpaceCity"/>
-          <include name="TC_10_inputspecialcharacterCity"/>
-          <include name="afterMethod"/>
-          <include name="TC_16_1_inputNumberPin"/>
-          <include name="TC_24_inputNumberMobileNumber"/>
-          <include name="beforeMethod"/>
-          <include name="TC_15_pressKeyState"/>
-          <include name="TC_09_inputNumberCity"/>
-          <include name="TC_27_1_inputEmailnotdoccom"/>
-          <include name="TC_06_pressKeySpaceAddress"/>
         </methods>
       </class> <!-- com.bankguru.testcase.NewCustomerScript -->
       <class name="com.bankguru.testcase.RegisterScript">

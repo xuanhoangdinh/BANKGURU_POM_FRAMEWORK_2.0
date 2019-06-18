@@ -26,9 +26,9 @@ public class commonFunction extends BasicPage {
 		super(driver);
 	}
 
-	private long timeouts;
+//	private long timeouts;
 
-	// private int timeouts = 20;
+	 private int timeouts = 60;
 
 	public void openUrl(String url) {
 		driver.get(url);
@@ -83,13 +83,13 @@ public class commonFunction extends BasicPage {
 		element.sendKeys(value);
 	}
 
-	public String getTextDynamic(String value) {
+	public String getTextDynamicXpath(String value) {
 		String dynamicLocator = String.format("//*[text()='%s']", value);
 		WebElement element = driver.findElement(By.xpath(dynamicLocator));
 		return element.getText();
 	}
 
-	public void waitVisibleDynamic(String value) {
+	public void waitVisibleDynamicXpath(String value) {
 		WebDriverWait wait = new WebDriverWait(driver, timeouts);
 		String dynamicLocator = String.format("//*[text()='%s']", value);
 		WebElement element = driver.findElement(By.xpath(dynamicLocator));

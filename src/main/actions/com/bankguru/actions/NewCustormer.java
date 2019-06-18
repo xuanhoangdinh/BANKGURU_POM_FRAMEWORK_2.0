@@ -77,8 +77,8 @@ public class NewCustormer extends commonFunction {
 	}
 
 	public String getDynamicText(String value) {
-		waitVisibleDynamicElement(value);
-		return getTextDynamicElement(value);
+		getTextDynamicXpath(value);
+		return getTextDynamicXpath(value);
 	}
 
 	public void pressKeyTabAddress(Keys key) {
