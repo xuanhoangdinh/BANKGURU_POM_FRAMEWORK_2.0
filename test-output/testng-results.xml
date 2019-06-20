@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="14" total="44" passed="30">
+<testng-results skipped="0" failed="0" total="43" passed="43">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="230633" started-at="2019-06-18T09:11:24Z" finished-at="2019-06-18T09:15:14Z">
+  <suite name="Suite" duration-ms="191052" started-at="2019-06-20T08:20:09Z" finished-at="2019-06-20T08:23:20Z">
     <groups>
     </groups>
-    <test name="Login guru on Chrome" duration-ms="230633" started-at="2019-06-18T09:11:24Z" finished-at="2019-06-18T09:15:14Z">
+    <test name="Login guru on Chrome" duration-ms="191052" started-at="2019-06-20T08:20:09Z" finished-at="2019-06-20T08:23:20Z">
       <class name="com.bankguru.testcase.NewCustomerScript">
-        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeClass" is-config="true" duration-ms="9330" started-at="2019-06-18T16:11:38Z" finished-at="2019-06-18T16:11:47Z">
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeClass" is-config="true" duration-ms="14052" started-at="2019-06-20T15:21:04Z" finished-at="2019-06-20T15:21:18Z">
           <params>
             <param index="0">
               <value>
@@ -28,15 +28,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="653" started-at="2019-06-18T16:11:47Z" finished-at="2019-06-18T16:11:47Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="2511" started-at="2019-06-20T15:21:18Z" finished-at="2019-06-20T15:21:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_01_PresskeyTab()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_01_PresskeyTab" duration-ms="6115" started-at="2019-06-18T16:11:47Z" finished-at="2019-06-18T16:11:54Z">
+        <test-method status="PASS" signature="TC_01_PresskeyTab()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_01_PresskeyTab" duration-ms="203" started-at="2019-06-20T15:21:21Z" finished-at="2019-06-20T15:21:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_01_PresskeyTab -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:11:54Z" finished-at="2019-06-18T16:11:54Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:21:21Z" finished-at="2019-06-20T15:21:21Z">
           <params>
             <param index="0">
               <value>
@@ -47,15 +47,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="373" started-at="2019-06-18T16:11:54Z" finished-at="2019-06-18T16:11:54Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="2220" started-at="2019-06-20T15:21:21Z" finished-at="2019-06-20T15:21:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_02_inputNumberCustomerName()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_02_inputNumberCustomerName" duration-ms="129" started-at="2019-06-18T16:11:54Z" finished-at="2019-06-18T16:11:54Z">
+        <test-method status="PASS" signature="TC_02_inputNumberCustomerName()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_02_inputNumberCustomerName" duration-ms="135" started-at="2019-06-20T15:21:23Z" finished-at="2019-06-20T15:21:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_02_inputNumberCustomerName -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:11:54Z" finished-at="2019-06-18T16:11:54Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:21:23Z" finished-at="2019-06-20T15:21:23Z">
           <params>
             <param index="0">
               <value>
@@ -66,15 +66,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="518" started-at="2019-06-18T16:11:54Z" finished-at="2019-06-18T16:11:55Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1364" started-at="2019-06-20T15:21:23Z" finished-at="2019-06-20T15:21:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_03_inputNumberSpecialCharacterName()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_03_inputNumberSpecialCharacterName" duration-ms="143" started-at="2019-06-18T16:11:55Z" finished-at="2019-06-18T16:11:55Z">
+        <test-method status="PASS" signature="TC_03_inputNumberSpecialCharacterName()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_03_inputNumberSpecialCharacterName" duration-ms="115" started-at="2019-06-20T15:21:24Z" finished-at="2019-06-20T15:21:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_03_inputNumberSpecialCharacterName -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:11:55Z" finished-at="2019-06-18T16:11:55Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:21:25Z" finished-at="2019-06-20T15:21:25Z">
           <params>
             <param index="0">
               <value>
@@ -85,15 +85,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="369" started-at="2019-06-18T16:11:55Z" finished-at="2019-06-18T16:11:55Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1445" started-at="2019-06-20T15:21:25Z" finished-at="2019-06-20T15:21:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_04_pressKeyTabCustomerName()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_04_pressKeyTabCustomerName" duration-ms="107" started-at="2019-06-18T16:11:55Z" finished-at="2019-06-18T16:11:55Z">
+        <test-method status="PASS" signature="TC_04_pressKeyTabCustomerName()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_04_pressKeyTabCustomerName" duration-ms="114" started-at="2019-06-20T15:21:26Z" finished-at="2019-06-20T15:21:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_04_pressKeyTabCustomerName -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:11:55Z" finished-at="2019-06-18T16:11:55Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:21:26Z" finished-at="2019-06-20T15:21:26Z">
           <params>
             <param index="0">
               <value>
@@ -104,15 +104,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="324" started-at="2019-06-18T16:11:55Z" finished-at="2019-06-18T16:11:56Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1536" started-at="2019-06-20T15:21:26Z" finished-at="2019-06-20T15:21:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_05_pressKeyTabAddress()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_05_pressKeyTabAddress" duration-ms="3120" started-at="2019-06-18T16:11:56Z" finished-at="2019-06-18T16:11:59Z">
+        <test-method status="PASS" signature="TC_05_pressKeyTabAddress()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_05_pressKeyTabAddress" duration-ms="108" started-at="2019-06-20T15:21:28Z" finished-at="2019-06-20T15:21:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_05_pressKeyTabAddress -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:11:59Z" finished-at="2019-06-18T16:11:59Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:21:28Z" finished-at="2019-06-20T15:21:28Z">
           <params>
             <param index="0">
               <value>
@@ -123,19 +123,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="399" started-at="2019-06-18T16:11:59Z" finished-at="2019-06-18T16:11:59Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1726" started-at="2019-06-20T15:21:28Z" finished-at="2019-06-20T15:21:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_06_pressKeySpaceAddress()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_06_pressKeySpaceAddress" duration-ms="3179" started-at="2019-06-18T16:11:59Z" finished-at="2019-06-18T16:12:02Z">
+        <test-method status="PASS" signature="TC_06_pressKeySpaceAddress()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_06_pressKeySpaceAddress" duration-ms="97" started-at="2019-06-20T15:21:30Z" finished-at="2019-06-20T15:21:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_06_pressKeySpaceAddress -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="393" started-at="2019-06-18T16:12:02Z" finished-at="2019-06-18T16:12:03Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:12:02Z" finished-at="2019-06-18T16:12:02Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:21:30Z" finished-at="2019-06-20T15:21:30Z">
           <params>
             <param index="0">
               <value>
@@ -146,11 +142,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="TC_08_pressKeyTabCity()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_08_pressKeyTabCity" duration-ms="3156" started-at="2019-06-18T16:12:03Z" finished-at="2019-06-18T16:12:06Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="2394" started-at="2019-06-20T15:21:30Z" finished-at="2019-06-20T15:21:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_08_pressKeyTabCity()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_08_pressKeyTabCity" duration-ms="146" started-at="2019-06-20T15:21:32Z" finished-at="2019-06-20T15:21:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_08_pressKeyTabCity -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:12:06Z" finished-at="2019-06-18T16:12:06Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:21:32Z" finished-at="2019-06-20T15:21:32Z">
           <params>
             <param index="0">
               <value>
@@ -161,15 +161,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="343" started-at="2019-06-18T16:12:06Z" finished-at="2019-06-18T16:12:06Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="2519" started-at="2019-06-20T15:21:32Z" finished-at="2019-06-20T15:21:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_09_inputNumberCity()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_09_inputNumberCity" duration-ms="3163" started-at="2019-06-18T16:12:06Z" finished-at="2019-06-18T16:12:09Z">
+        <test-method status="PASS" signature="TC_09_inputNumberCity()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_09_inputNumberCity" duration-ms="129" started-at="2019-06-20T15:21:35Z" finished-at="2019-06-20T15:21:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_09_inputNumberCity -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:12:09Z" finished-at="2019-06-18T16:12:09Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:21:35Z" finished-at="2019-06-20T15:21:35Z">
           <params>
             <param index="0">
               <value>
@@ -180,15 +180,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="574" started-at="2019-06-18T16:12:09Z" finished-at="2019-06-18T16:12:10Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1247" started-at="2019-06-20T15:21:35Z" finished-at="2019-06-20T15:21:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_10_inputspecialcharacterCity()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_10_inputspecialcharacterCity" duration-ms="3166" started-at="2019-06-18T16:12:10Z" finished-at="2019-06-18T16:12:13Z">
+        <test-method status="PASS" signature="TC_10_inputspecialcharacterCity()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_10_inputspecialcharacterCity" duration-ms="360" started-at="2019-06-20T15:21:36Z" finished-at="2019-06-20T15:21:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_10_inputspecialcharacterCity -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:12:13Z" finished-at="2019-06-18T16:12:13Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:21:36Z" finished-at="2019-06-20T15:21:36Z">
           <params>
             <param index="0">
               <value>
@@ -199,15 +199,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="340" started-at="2019-06-18T16:12:13Z" finished-at="2019-06-18T16:12:13Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="4143" started-at="2019-06-20T15:21:36Z" finished-at="2019-06-20T15:21:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_11_pressKeySpaceCity()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_11_pressKeySpaceCity" duration-ms="3176" started-at="2019-06-18T16:12:13Z" finished-at="2019-06-18T16:12:17Z">
+        <test-method status="PASS" signature="TC_11_pressKeySpaceCity()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_11_pressKeySpaceCity" duration-ms="103" started-at="2019-06-20T15:21:41Z" finished-at="2019-06-20T15:21:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_11_pressKeySpaceCity -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:12:17Z" finished-at="2019-06-18T16:12:17Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="2404" started-at="2019-06-20T15:21:41Z" finished-at="2019-06-20T15:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:21:41Z" finished-at="2019-06-20T15:21:41Z">
           <params>
             <param index="0">
               <value>
@@ -218,15 +222,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="421" started-at="2019-06-18T16:12:17Z" finished-at="2019-06-18T16:12:17Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_12_pressKeyTabState()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_12_pressKeyTabState" duration-ms="3157" started-at="2019-06-18T16:12:17Z" finished-at="2019-06-18T16:12:20Z">
+        <test-method status="PASS" signature="TC_12_pressKeyTabState()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_12_pressKeyTabState" duration-ms="130" started-at="2019-06-20T15:21:43Z" finished-at="2019-06-20T15:21:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_12_pressKeyTabState -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:12:20Z" finished-at="2019-06-18T16:12:20Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:21:43Z" finished-at="2019-06-20T15:21:43Z">
           <params>
             <param index="0">
               <value>
@@ -237,15 +237,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="453" started-at="2019-06-18T16:12:20Z" finished-at="2019-06-18T16:12:21Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1426" started-at="2019-06-20T15:21:43Z" finished-at="2019-06-20T15:21:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_13_inputNumberState()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_13_inputNumberState" duration-ms="3161" started-at="2019-06-18T16:12:21Z" finished-at="2019-06-18T16:12:24Z">
+        <test-method status="PASS" signature="TC_13_inputNumberState()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_13_inputNumberState" duration-ms="122" started-at="2019-06-20T15:21:45Z" finished-at="2019-06-20T15:21:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_13_inputNumberState -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:12:24Z" finished-at="2019-06-18T16:12:24Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:21:45Z" finished-at="2019-06-20T15:21:45Z">
           <params>
             <param index="0">
               <value>
@@ -256,15 +256,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="627" started-at="2019-06-18T16:12:24Z" finished-at="2019-06-18T16:12:24Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1385" started-at="2019-06-20T15:21:45Z" finished-at="2019-06-20T15:21:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_14_inputSpecialCharacterState()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_14_inputSpecialCharacterState" duration-ms="3171" started-at="2019-06-18T16:12:24Z" finished-at="2019-06-18T16:12:28Z">
+        <test-method status="PASS" signature="TC_14_inputSpecialCharacterState()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_14_inputSpecialCharacterState" duration-ms="131" started-at="2019-06-20T15:21:46Z" finished-at="2019-06-20T15:21:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_14_inputSpecialCharacterState -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:12:28Z" finished-at="2019-06-18T16:12:28Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:21:46Z" finished-at="2019-06-20T15:21:46Z">
           <params>
             <param index="0">
               <value>
@@ -275,15 +275,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1033" started-at="2019-06-18T16:12:28Z" finished-at="2019-06-18T16:12:29Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1405" started-at="2019-06-20T15:21:46Z" finished-at="2019-06-20T15:21:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_15_pressKeyState()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_15_pressKeyState" duration-ms="3159" started-at="2019-06-18T16:12:29Z" finished-at="2019-06-18T16:12:32Z">
+        <test-method status="PASS" signature="TC_15_pressKeyState()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_15_pressKeyState" duration-ms="91" started-at="2019-06-20T15:21:48Z" finished-at="2019-06-20T15:21:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_15_pressKeyState -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:12:32Z" finished-at="2019-06-18T16:12:32Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:21:48Z" finished-at="2019-06-20T15:21:48Z">
           <params>
             <param index="0">
               <value>
@@ -294,15 +294,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="416" started-at="2019-06-18T16:12:32Z" finished-at="2019-06-18T16:12:32Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1353" started-at="2019-06-20T15:21:48Z" finished-at="2019-06-20T15:21:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_16_1_inputNumberPin()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_16_1_inputNumberPin" duration-ms="3146" started-at="2019-06-18T16:12:32Z" finished-at="2019-06-18T16:12:35Z">
+        <test-method status="PASS" signature="TC_16_1_inputNumberPin()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_16_1_inputNumberPin" duration-ms="114" started-at="2019-06-20T15:21:49Z" finished-at="2019-06-20T15:21:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_16_1_inputNumberPin -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:12:35Z" finished-at="2019-06-18T16:12:35Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:21:49Z" finished-at="2019-06-20T15:21:49Z">
           <params>
             <param index="0">
               <value>
@@ -313,15 +313,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="2876" started-at="2019-06-18T16:12:35Z" finished-at="2019-06-18T16:12:38Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1498" started-at="2019-06-20T15:21:49Z" finished-at="2019-06-20T15:21:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_16_2_inputPinCharacter()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_16_2_inputPinCharacter" duration-ms="6171" started-at="2019-06-18T16:12:38Z" finished-at="2019-06-18T16:12:44Z">
+        <test-method status="PASS" signature="TC_16_2_inputPinCharacter()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_16_2_inputPinCharacter" duration-ms="116" started-at="2019-06-20T15:21:51Z" finished-at="2019-06-20T15:21:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_16_2_inputPinCharacter -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="2" started-at="2019-06-18T16:12:44Z" finished-at="2019-06-18T16:12:44Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:21:51Z" finished-at="2019-06-20T15:21:51Z">
           <params>
             <param index="0">
               <value>
@@ -332,15 +332,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1311" started-at="2019-06-18T16:12:44Z" finished-at="2019-06-18T16:12:46Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1838" started-at="2019-06-20T15:21:51Z" finished-at="2019-06-20T15:21:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_17_pressTabPin()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_17_pressTabPin" duration-ms="6143" started-at="2019-06-18T16:12:46Z" finished-at="2019-06-18T16:12:52Z">
+        <test-method status="PASS" signature="TC_17_pressTabPin()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_17_pressTabPin" duration-ms="112" started-at="2019-06-20T15:21:53Z" finished-at="2019-06-20T15:21:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_17_pressTabPin -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:12:52Z" finished-at="2019-06-18T16:12:52Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:21:53Z" finished-at="2019-06-20T15:21:53Z">
           <params>
             <param index="0">
               <value>
@@ -351,15 +351,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="529" started-at="2019-06-18T16:12:52Z" finished-at="2019-06-18T16:12:52Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="2172" started-at="2019-06-20T15:21:53Z" finished-at="2019-06-20T15:21:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_19_inputPinspecialCharacter()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_19_inputPinspecialCharacter" duration-ms="6142" started-at="2019-06-18T16:12:52Z" finished-at="2019-06-18T16:12:59Z">
+        <test-method status="PASS" signature="TC_19_inputPinspecialCharacter()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_19_inputPinspecialCharacter" duration-ms="115" started-at="2019-06-20T15:21:55Z" finished-at="2019-06-20T15:21:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_19_inputPinspecialCharacter -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:12:59Z" finished-at="2019-06-18T16:12:59Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:21:55Z" finished-at="2019-06-20T15:21:55Z">
           <params>
             <param index="0">
               <value>
@@ -370,15 +370,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="487" started-at="2019-06-18T16:12:59Z" finished-at="2019-06-18T16:12:59Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="2102" started-at="2019-06-20T15:21:55Z" finished-at="2019-06-20T15:21:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_20_pressTabPin()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_20_pressTabPin" duration-ms="6148" started-at="2019-06-18T16:12:59Z" finished-at="2019-06-18T16:13:05Z">
+        <test-method status="PASS" signature="TC_20_pressTabPin()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_20_pressTabPin" duration-ms="109" started-at="2019-06-20T15:21:57Z" finished-at="2019-06-20T15:21:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_20_pressTabPin -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:13:05Z" finished-at="2019-06-18T16:13:05Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:21:57Z" finished-at="2019-06-20T15:21:57Z">
           <params>
             <param index="0">
               <value>
@@ -389,15 +389,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="436" started-at="2019-06-18T16:13:05Z" finished-at="2019-06-18T16:13:06Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="2035" started-at="2019-06-20T15:21:57Z" finished-at="2019-06-20T15:21:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_21_pressTabMobileNumber()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_21_pressTabMobileNumber" duration-ms="6205" started-at="2019-06-18T16:13:06Z" finished-at="2019-06-18T16:13:12Z">
+        <test-method status="PASS" signature="TC_21_pressTabMobileNumber()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_21_pressTabMobileNumber" duration-ms="117" started-at="2019-06-20T15:21:59Z" finished-at="2019-06-20T15:21:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_21_pressTabMobileNumber -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="2" started-at="2019-06-18T16:13:12Z" finished-at="2019-06-18T16:13:12Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:21:59Z" finished-at="2019-06-20T15:21:59Z">
           <params>
             <param index="0">
               <value>
@@ -408,15 +408,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="519" started-at="2019-06-18T16:13:12Z" finished-at="2019-06-18T16:13:12Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="2028" started-at="2019-06-20T15:21:59Z" finished-at="2019-06-20T15:22:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_22_pressSpaceMobileNumber()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_22_pressSpaceMobileNumber" duration-ms="6165" started-at="2019-06-18T16:13:12Z" finished-at="2019-06-18T16:13:18Z">
+        <test-method status="PASS" signature="TC_22_pressSpaceMobileNumber()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_22_pressSpaceMobileNumber" duration-ms="114" started-at="2019-06-20T15:22:01Z" finished-at="2019-06-20T15:22:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_22_pressSpaceMobileNumber -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:13:18Z" finished-at="2019-06-18T16:13:18Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:22:02Z" finished-at="2019-06-20T15:22:02Z">
           <params>
             <param index="0">
               <value>
@@ -427,15 +427,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="858" started-at="2019-06-18T16:13:18Z" finished-at="2019-06-18T16:13:19Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1432" started-at="2019-06-20T15:22:02Z" finished-at="2019-06-20T15:22:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_24_inputNumberMobileNumber()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_24_inputNumberMobileNumber" duration-ms="6175" started-at="2019-06-18T16:13:19Z" finished-at="2019-06-18T16:13:26Z">
+        <test-method status="PASS" signature="TC_24_inputNumberMobileNumber()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_24_inputNumberMobileNumber" duration-ms="111" started-at="2019-06-20T15:22:03Z" finished-at="2019-06-20T15:22:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_24_inputNumberMobileNumber -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="2" started-at="2019-06-18T16:13:26Z" finished-at="2019-06-18T16:13:26Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:22:03Z" finished-at="2019-06-20T15:22:03Z">
           <params>
             <param index="0">
               <value>
@@ -446,15 +446,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="415" started-at="2019-06-18T16:13:26Z" finished-at="2019-06-18T16:13:26Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1585" started-at="2019-06-20T15:22:03Z" finished-at="2019-06-20T15:22:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_25_inputspecialCharacterMobileNumber()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_25_inputspecialCharacterMobileNumber" duration-ms="6188" started-at="2019-06-18T16:13:26Z" finished-at="2019-06-18T16:13:32Z">
+        <test-method status="PASS" signature="TC_25_inputspecialCharacterMobileNumber()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_25_inputspecialCharacterMobileNumber" duration-ms="121" started-at="2019-06-20T15:22:05Z" finished-at="2019-06-20T15:22:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_25_inputspecialCharacterMobileNumber -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:13:32Z" finished-at="2019-06-18T16:13:32Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:22:05Z" finished-at="2019-06-20T15:22:05Z">
           <params>
             <param index="0">
               <value>
@@ -465,15 +465,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="446" started-at="2019-06-18T16:13:32Z" finished-at="2019-06-18T16:13:33Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1510" started-at="2019-06-20T15:22:05Z" finished-at="2019-06-20T15:22:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_26_pressTabEmail()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_26_pressTabEmail" duration-ms="6157" started-at="2019-06-18T16:13:33Z" finished-at="2019-06-18T16:13:39Z">
+        <test-method status="PASS" signature="TC_26_pressTabEmail()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_26_pressTabEmail" duration-ms="95" started-at="2019-06-20T15:22:06Z" finished-at="2019-06-20T15:22:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_26_pressTabEmail -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="2" started-at="2019-06-18T16:13:39Z" finished-at="2019-06-18T16:13:39Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1497" started-at="2019-06-20T15:22:06Z" finished-at="2019-06-20T15:22:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:22:06Z" finished-at="2019-06-20T15:22:06Z">
           <params>
             <param index="0">
               <value>
@@ -484,102 +488,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="438" started-at="2019-06-18T16:13:39Z" finished-at="2019-06-18T16:13:39Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="TC_27_1_inputEmailnotdoccom()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_27_1_inputEmailnotdoccom" duration-ms="3159" started-at="2019-06-18T16:13:39Z" finished-at="2019-06-18T16:13:42Z">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Email-ID must not be blank']"}
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9273}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 3d68c138a5f630289c9a8ff6e034061f
-*** Element info: {Using=xpath, value=//*[text()='Email-ID must not be blank']}]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Email-ID must not be blank']"}
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9273}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 3d68c138a5f630289c9a8ff6e034061f
-*** Element info: {Using=xpath, value=//*[text()='Email-ID must not be blank']}
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
-	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:319)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:421)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:311)
-	at CommonPage.commonFunction.getTextDynamicXpath(commonFunction.java:88)
-	at com.bankguru.actions.NewCustormer.getDynamicText(NewCustormer.java:80)
-	at com.bankguru.testcase.NewCustomerScript.TC_27_1_inputEmailnotdoccom(NewCustomerScript.java:380)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
-	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_27_1_inputEmailnotdoccom -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="8" started-at="2019-06-18T16:13:42Z" finished-at="2019-06-18T16:13:42Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=TC_27_1_inputEmailnotdoccom status=FAILURE method=NewCustomerScript.TC_27_1_inputEmailnotdoccom()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="386" started-at="2019-06-18T16:13:42Z" finished-at="2019-06-18T16:13:43Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_29_pressTabEmail()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_29_pressTabEmail" duration-ms="6208" started-at="2019-06-18T16:13:43Z" finished-at="2019-06-18T16:13:49Z">
+        <test-method status="PASS" signature="TC_29_pressTabEmail()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_29_pressTabEmail" duration-ms="158" started-at="2019-06-20T15:22:08Z" finished-at="2019-06-20T15:22:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_29_pressTabEmail -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:13:49Z" finished-at="2019-06-18T16:13:49Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:22:08Z" finished-at="2019-06-20T15:22:08Z">
           <params>
             <param index="0">
               <value>
@@ -590,101 +503,32 @@ Session ID: 3d68c138a5f630289c9a8ff6e034061f
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="929" started-at="2019-06-18T16:13:49Z" finished-at="2019-06-18T16:13:50Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="beforeMethod" is-config="true" duration-ms="1454" started-at="2019-06-20T15:22:08Z" finished-at="2019-06-20T15:22:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="TC_30_inputnewCustomervalid()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_30_inputnewCustomervalid" duration-ms="61105" started-at="2019-06-18T16:13:50Z" finished-at="2019-06-18T16:14:51Z">
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: input[@value=Submit]' (tried for 60 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.cssSelector: input[@value=Submit]' (tried for 60 second(s) with 500 milliseconds interval)
-	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:81)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:271)
-	at CommonPage.commonFunction.waitVisible(commonFunction.java:295)
-	at com.bankguru.actions.NewCustormer.clickSummit(NewCustormer.java:165)
-	at com.bankguru.testcase.NewCustomerScript.TC_30_inputnewCustomervalid(NewCustomerScript.java:450)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
-	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Caused by: org.openqa.selenium.InvalidSelectorException: invalid selector: An invalid or illegal selector was specified
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9273}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 3d68c138a5f630289c9a8ff6e034061f
-*** Element info: {Using=css selector, value=input[@value=Submit]}
-	at sun.reflect.GeneratedConstructorAccessor21.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
-	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:319)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:413)
-	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:311)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy12.isDisplayed(Unknown Source)
-	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:315)
-	at org.openqa.selenium.support.ui.ExpectedConditions.access$100(ExpectedConditions.java:44)
-	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:301)
-	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:298)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:248)
-	... 23 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+        <test-method status="PASS" signature="TC_30_inputnewCustomervalid()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="TC_30_inputnewCustomervalid" duration-ms="5965" started-at="2019-06-20T15:22:10Z" finished-at="2019-06-20T15:22:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_30_inputnewCustomervalid -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="5" started-at="2019-06-18T16:14:51Z" finished-at="2019-06-18T16:14:51Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:22:16Z" finished-at="2019-06-20T15:22:16Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_30_inputnewCustomervalid status=FAILURE method=NewCustomerScript.TC_30_inputnewCustomervalid()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad] output={null}]]]>
+                <![CDATA[[TestResult name=TC_30_inputnewCustomervalid status=SUCCESS method=NewCustomerScript.TC_30_inputnewCustomervalid()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterClass" is-config="true" duration-ms="670" started-at="2019-06-18T16:14:51Z" finished-at="2019-06-18T16:14:52Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@26be92ad]" name="afterClass" is-config="true" duration-ms="687" started-at="2019-06-20T15:22:16Z" finished-at="2019-06-20T15:22:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- com.bankguru.testcase.NewCustomerScript -->
       <class name="com.bankguru.testcase.EditCustomerScript">
-        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeClass" is-config="true" duration-ms="8576" started-at="2019-06-18T16:14:52Z" finished-at="2019-06-18T16:15:00Z">
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeClass" is-config="true" duration-ms="10340" started-at="2019-06-20T15:22:16Z" finished-at="2019-06-20T15:22:27Z">
           <params>
             <param index="0">
               <value>
@@ -705,19 +549,19 @@ Session ID: 3d68c138a5f630289c9a8ff6e034061f
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="858" started-at="2019-06-18T16:15:00Z" finished-at="2019-06-18T16:15:01Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="2684" started-at="2019-06-20T15:22:27Z" finished-at="2019-06-20T15:22:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_01_pressKeyTabCustomerId()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_01_pressKeyTabCustomerId" duration-ms="113" started-at="2019-06-18T16:15:01Z" finished-at="2019-06-18T16:15:01Z">
+        <test-method status="PASS" signature="TC_01_pressKeyTabCustomerId()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_01_pressKeyTabCustomerId" duration-ms="181" started-at="2019-06-20T15:22:29Z" finished-at="2019-06-20T15:22:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_01_pressKeyTabCustomerId -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="820" started-at="2019-06-18T16:15:01Z" finished-at="2019-06-18T16:15:02Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="1003" started-at="2019-06-20T15:22:29Z" finished-at="2019-06-20T15:22:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:15:01Z" finished-at="2019-06-18T16:15:01Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:22:29Z" finished-at="2019-06-20T15:22:29Z">
           <params>
             <param index="0">
               <value>
@@ -728,11 +572,15 @@ Session ID: 3d68c138a5f630289c9a8ff6e034061f
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="TC_02_inputCustomerIDnumberandCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_02_inputCustomerIDnumberandCharacter" duration-ms="110" started-at="2019-06-18T16:15:02Z" finished-at="2019-06-18T16:15:02Z">
+        <test-method status="PASS" signature="TC_02_inputCustomerIDnumberandCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_02_inputCustomerIDnumberandCharacter" duration-ms="106" started-at="2019-06-20T15:22:30Z" finished-at="2019-06-20T15:22:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_02_inputCustomerIDnumberandCharacter -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:15:02Z" finished-at="2019-06-18T16:15:02Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="928" started-at="2019-06-20T15:22:31Z" finished-at="2019-06-20T15:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:22:31Z" finished-at="2019-06-20T15:22:31Z">
           <params>
             <param index="0">
               <value>
@@ -743,15 +591,11 @@ Session ID: 3d68c138a5f630289c9a8ff6e034061f
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="824" started-at="2019-06-18T16:15:02Z" finished-at="2019-06-18T16:15:03Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_03_inputCustomerIDspecialCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_03_inputCustomerIDspecialCharacter" duration-ms="108" started-at="2019-06-18T16:15:03Z" finished-at="2019-06-18T16:15:03Z">
+        <test-method status="PASS" signature="TC_03_inputCustomerIDspecialCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_03_inputCustomerIDspecialCharacter" duration-ms="110" started-at="2019-06-20T15:22:31Z" finished-at="2019-06-20T15:22:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_03_inputCustomerIDspecialCharacter -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:15:03Z" finished-at="2019-06-18T16:15:03Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:22:32Z" finished-at="2019-06-20T15:22:32Z">
           <params>
             <param index="0">
               <value>
@@ -762,15 +606,15 @@ Session ID: 3d68c138a5f630289c9a8ff6e034061f
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="683" started-at="2019-06-18T16:15:03Z" finished-at="2019-06-18T16:15:04Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="1268" started-at="2019-06-20T15:22:32Z" finished-at="2019-06-20T15:22:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC_04_inputCustomerIDCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_04_inputCustomerIDCharacter" duration-ms="117" started-at="2019-06-18T16:15:04Z" finished-at="2019-06-18T16:15:04Z">
+        <test-method status="PASS" signature="TC_04_inputCustomerIDCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_04_inputCustomerIDCharacter" duration-ms="93" started-at="2019-06-20T15:22:33Z" finished-at="2019-06-20T15:22:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_04_inputCustomerIDCharacter -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:15:04Z" finished-at="2019-06-18T16:15:04Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:22:33Z" finished-at="2019-06-20T15:22:33Z">
           <params>
             <param index="0">
               <value>
@@ -781,1045 +625,241 @@ Session ID: 3d68c138a5f630289c9a8ff6e034061f
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="778" started-at="2019-06-18T16:15:04Z" finished-at="2019-06-18T16:15:05Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="1041" started-at="2019-06-20T15:22:33Z" finished-at="2019-06-20T15:22:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="TC_05_inputCustomerIDvalid()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_05_inputCustomerIDvalid" duration-ms="60" started-at="2019-06-18T16:15:05Z" finished-at="2019-06-18T16:15:05Z">
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
-	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)
-	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
-	at CommonPage.commonFunction.input(commonFunction.java:83)
-	at com.bankguru.actions.EditCustomer.inputCustomerId(EditCustomer.java:110)
-	at com.bankguru.testcase.EditCustomerScript.TC_05_inputCustomerIDvalid(EditCustomerScript.java:106)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
-	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
+        <test-method status="PASS" signature="TC_05_inputCustomerIDvalid()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_05_inputCustomerIDvalid" duration-ms="1391" started-at="2019-06-20T15:22:34Z" finished-at="2019-06-20T15:22:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_05_inputCustomerIDvalid -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:15:05Z" finished-at="2019-06-18T16:15:05Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="932" started-at="2019-06-20T15:22:35Z" finished-at="2019-06-20T15:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:22:35Z" finished-at="2019-06-20T15:22:35Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_05_inputCustomerIDvalid status=FAILURE method=EditCustomerScript.TC_05_inputCustomerIDvalid()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
+                <![CDATA[[TestResult name=TC_05_inputCustomerIDvalid status=SUCCESS method=EditCustomerScript.TC_05_inputCustomerIDvalid()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="600" started-at="2019-06-18T16:15:05Z" finished-at="2019-06-18T16:15:05Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="TC_08_clearAddress()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_08_clearAddress" duration-ms="69" started-at="2019-06-18T16:15:05Z" finished-at="2019-06-18T16:15:05Z">
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
-	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)
-	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
-	at CommonPage.commonFunction.input(commonFunction.java:83)
-	at com.bankguru.actions.EditCustomer.inputCustomerId(EditCustomer.java:110)
-	at com.bankguru.testcase.EditCustomerScript.TC_08_clearAddress(EditCustomerScript.java:117)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
-	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
+        <test-method status="PASS" signature="TC_08_clearAddress()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_08_clearAddress" duration-ms="1800" started-at="2019-06-20T15:22:36Z" finished-at="2019-06-20T15:22:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_08_clearAddress -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:15:05Z" finished-at="2019-06-18T16:15:05Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:22:38Z" finished-at="2019-06-20T15:22:38Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_08_clearAddress status=FAILURE method=EditCustomerScript.TC_08_clearAddress()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
+                <![CDATA[[TestResult name=TC_08_clearAddress status=SUCCESS method=EditCustomerScript.TC_08_clearAddress()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="931" started-at="2019-06-18T16:15:05Z" finished-at="2019-06-18T16:15:06Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="601" started-at="2019-06-20T15:22:38Z" finished-at="2019-06-20T15:22:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="TC_09_clearAddressandpressTabAddress()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_09_clearAddressandpressTabAddress" duration-ms="54" started-at="2019-06-18T16:15:06Z" finished-at="2019-06-18T16:15:06Z">
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
-	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)
-	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
-	at CommonPage.commonFunction.input(commonFunction.java:83)
-	at com.bankguru.actions.EditCustomer.inputCustomerId(EditCustomer.java:110)
-	at com.bankguru.testcase.EditCustomerScript.TC_09_clearAddressandpressTabAddress(EditCustomerScript.java:131)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
-	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
+        <test-method status="PASS" signature="TC_09_clearAddressandpressTabAddress()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_09_clearAddressandpressTabAddress" duration-ms="1739" started-at="2019-06-20T15:22:39Z" finished-at="2019-06-20T15:22:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_09_clearAddressandpressTabAddress -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:15:06Z" finished-at="2019-06-18T16:15:06Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:22:40Z" finished-at="2019-06-20T15:22:40Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_09_clearAddressandpressTabAddress status=FAILURE method=EditCustomerScript.TC_09_clearAddressandpressTabAddress()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
+                <![CDATA[[TestResult name=TC_09_clearAddressandpressTabAddress status=SUCCESS method=EditCustomerScript.TC_09_clearAddressandpressTabAddress()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="804" started-at="2019-06-18T16:15:06Z" finished-at="2019-06-18T16:15:07Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="913" started-at="2019-06-20T15:22:40Z" finished-at="2019-06-20T15:22:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="TC_10_clearAddressandinputAddressspecialCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_10_clearAddressandinputAddressspecialCharacter" duration-ms="54" started-at="2019-06-18T16:15:07Z" finished-at="2019-06-18T16:15:07Z">
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
-	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)
-	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
-	at CommonPage.commonFunction.input(commonFunction.java:83)
-	at com.bankguru.actions.EditCustomer.inputCustomerId(EditCustomer.java:110)
-	at com.bankguru.testcase.EditCustomerScript.TC_10_clearAddressandinputAddressspecialCharacter(EditCustomerScript.java:146)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
-	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
+        <test-method status="PASS" signature="TC_10_clearAddressandinputAddressspecialCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_10_clearAddressandinputAddressspecialCharacter" duration-ms="2128" started-at="2019-06-20T15:22:41Z" finished-at="2019-06-20T15:22:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_10_clearAddressandinputAddressspecialCharacter -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:15:07Z" finished-at="2019-06-18T16:15:07Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:22:43Z" finished-at="2019-06-20T15:22:43Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_10_clearAddressandinputAddressspecialCharacter status=FAILURE method=EditCustomerScript.TC_10_clearAddressandinputAddressspecialCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
+                <![CDATA[[TestResult name=TC_10_clearAddressandinputAddressspecialCharacter status=SUCCESS method=EditCustomerScript.TC_10_clearAddressandinputAddressspecialCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="601" started-at="2019-06-18T16:15:07Z" finished-at="2019-06-18T16:15:08Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="1814" started-at="2019-06-20T15:22:43Z" finished-at="2019-06-20T15:22:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="TC_11_clearAddressandpressKeyTabCity()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_11_clearAddressandpressKeyTabCity" duration-ms="59" started-at="2019-06-18T16:15:08Z" finished-at="2019-06-18T16:15:08Z">
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
-	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)
-	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
-	at CommonPage.commonFunction.input(commonFunction.java:83)
-	at com.bankguru.actions.EditCustomer.inputCustomerId(EditCustomer.java:110)
-	at com.bankguru.testcase.EditCustomerScript.TC_11_clearAddressandpressKeyTabCity(EditCustomerScript.java:161)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
-	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
+        <test-method status="PASS" signature="TC_11_clearAddressandpressKeyTabCity()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_11_clearAddressandpressKeyTabCity" duration-ms="2433" started-at="2019-06-20T15:22:45Z" finished-at="2019-06-20T15:22:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_11_clearAddressandpressKeyTabCity -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:15:08Z" finished-at="2019-06-18T16:15:08Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:22:48Z" finished-at="2019-06-20T15:22:48Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_11_clearAddressandpressKeyTabCity status=FAILURE method=EditCustomerScript.TC_11_clearAddressandpressKeyTabCity()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
+                <![CDATA[[TestResult name=TC_11_clearAddressandpressKeyTabCity status=SUCCESS method=EditCustomerScript.TC_11_clearAddressandpressKeyTabCity()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="807" started-at="2019-06-18T16:15:08Z" finished-at="2019-06-18T16:15:09Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="1554" started-at="2019-06-20T15:22:48Z" finished-at="2019-06-20T15:22:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="TC_12_inputNumberCity()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_12_inputNumberCity" duration-ms="54" started-at="2019-06-18T16:15:09Z" finished-at="2019-06-18T16:15:09Z">
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
-	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)
-	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
-	at CommonPage.commonFunction.input(commonFunction.java:83)
-	at com.bankguru.actions.EditCustomer.inputCustomerId(EditCustomer.java:110)
-	at com.bankguru.testcase.EditCustomerScript.TC_12_inputNumberCity(EditCustomerScript.java:182)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
-	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
+        <test-method status="PASS" signature="TC_12_inputNumberCity()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_12_inputNumberCity" duration-ms="2480" started-at="2019-06-20T15:22:49Z" finished-at="2019-06-20T15:22:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_12_inputNumberCity -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="873" started-at="2019-06-18T16:15:09Z" finished-at="2019-06-18T16:15:10Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:15:09Z" finished-at="2019-06-18T16:15:09Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:22:52Z" finished-at="2019-06-20T15:22:52Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_12_inputNumberCity status=FAILURE method=EditCustomerScript.TC_12_inputNumberCity()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
+                <![CDATA[[TestResult name=TC_12_inputNumberCity status=SUCCESS method=EditCustomerScript.TC_12_inputNumberCity()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="FAIL" signature="TC_14_editStatewithnumberandspecialcharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_14_editStatewithnumberandspecialcharacter" duration-ms="49" started-at="2019-06-18T16:15:10Z" finished-at="2019-06-18T16:15:10Z">
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
-	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)
-	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
-	at CommonPage.commonFunction.input(commonFunction.java:83)
-	at com.bankguru.actions.EditCustomer.inputCustomerId(EditCustomer.java:110)
-	at com.bankguru.testcase.EditCustomerScript.TC_14_editStatewithnumberandspecialcharacter(EditCustomerScript.java:225)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
-	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="1710" started-at="2019-06-20T15:22:52Z" finished-at="2019-06-20T15:22:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_14_editStatewithnumberandspecialcharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_14_editStatewithnumberandspecialcharacter" duration-ms="2466" started-at="2019-06-20T15:22:53Z" finished-at="2019-06-20T15:22:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_14_editStatewithnumberandspecialcharacter -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:15:10Z" finished-at="2019-06-18T16:15:10Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:22:56Z" finished-at="2019-06-20T15:22:56Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_14_editStatewithnumberandspecialcharacter status=FAILURE method=EditCustomerScript.TC_14_editStatewithnumberandspecialcharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
+                <![CDATA[[TestResult name=TC_14_editStatewithnumberandspecialcharacter status=SUCCESS method=EditCustomerScript.TC_14_editStatewithnumberandspecialcharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="885" started-at="2019-06-18T16:15:10Z" finished-at="2019-06-18T16:15:11Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="2002" started-at="2019-06-20T15:22:56Z" finished-at="2019-06-20T15:22:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="TC_16_EditPinnumbernotenoughandSpecialCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_16_EditPinnumbernotenoughandSpecialCharacter" duration-ms="52" started-at="2019-06-18T16:15:11Z" finished-at="2019-06-18T16:15:11Z">
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
-	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)
-	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
-	at CommonPage.commonFunction.input(commonFunction.java:83)
-	at com.bankguru.actions.EditCustomer.inputCustomerId(EditCustomer.java:110)
-	at com.bankguru.testcase.EditCustomerScript.TC_16_EditPinnumbernotenoughandSpecialCharacter(EditCustomerScript.java:267)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
-	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
+        <test-method status="PASS" signature="TC_16_EditPinnumbernotenoughandSpecialCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_16_EditPinnumbernotenoughandSpecialCharacter" duration-ms="2701" started-at="2019-06-20T15:22:58Z" finished-at="2019-06-20T15:23:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_16_EditPinnumbernotenoughandSpecialCharacter -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:15:11Z" finished-at="2019-06-18T16:15:11Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:23:01Z" finished-at="2019-06-20T15:23:01Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_16_EditPinnumbernotenoughandSpecialCharacter status=FAILURE method=EditCustomerScript.TC_16_EditPinnumbernotenoughandSpecialCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
+                <![CDATA[[TestResult name=TC_16_EditPinnumbernotenoughandSpecialCharacter status=SUCCESS method=EditCustomerScript.TC_16_EditPinnumbernotenoughandSpecialCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="655" started-at="2019-06-18T16:15:11Z" finished-at="2019-06-18T16:15:11Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="1938" started-at="2019-06-20T15:23:01Z" finished-at="2019-06-20T15:23:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="TC_17_EditCitypressKeyTabandSPACE()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_17_EditCitypressKeyTabandSPACE" duration-ms="52" started-at="2019-06-18T16:15:11Z" finished-at="2019-06-18T16:15:11Z">
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
-	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)
-	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
-	at CommonPage.commonFunction.input(commonFunction.java:83)
-	at com.bankguru.actions.EditCustomer.inputCustomerId(EditCustomer.java:110)
-	at com.bankguru.testcase.EditCustomerScript.TC_17_EditCitypressKeyTabandSPACE(EditCustomerScript.java:287)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
-	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
+        <test-method status="PASS" signature="TC_17_EditCitypressKeyTabandSPACE()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_17_EditCitypressKeyTabandSPACE" duration-ms="2847" started-at="2019-06-20T15:23:03Z" finished-at="2019-06-20T15:23:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_17_EditCitypressKeyTabandSPACE -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="663" started-at="2019-06-18T16:15:11Z" finished-at="2019-06-18T16:15:12Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:15:11Z" finished-at="2019-06-18T16:15:11Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-20T15:23:05Z" finished-at="2019-06-20T15:23:05Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_17_EditCitypressKeyTabandSPACE status=FAILURE method=EditCustomerScript.TC_17_EditCitypressKeyTabandSPACE()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
+                <![CDATA[[TestResult name=TC_17_EditCitypressKeyTabandSPACE status=SUCCESS method=EditCustomerScript.TC_17_EditCitypressKeyTabandSPACE()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="FAIL" signature="TC_18_EditStatepressKeyTabaandcharacterandSPACE()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_18_EditStatepressKeyTabaandcharacterandSPACE" duration-ms="51" started-at="2019-06-18T16:15:12Z" finished-at="2019-06-18T16:15:12Z">
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
-	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)
-	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
-	at CommonPage.commonFunction.input(commonFunction.java:83)
-	at com.bankguru.actions.EditCustomer.inputCustomerId(EditCustomer.java:110)
-	at com.bankguru.testcase.EditCustomerScript.TC_18_EditStatepressKeyTabaandcharacterandSPACE(EditCustomerScript.java:308)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
-	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="2545" started-at="2019-06-20T15:23:05Z" finished-at="2019-06-20T15:23:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_18_EditStatepressKeyTabaandcharacterandSPACE()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_18_EditStatepressKeyTabaandcharacterandSPACE" duration-ms="2511" started-at="2019-06-20T15:23:08Z" finished-at="2019-06-20T15:23:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_18_EditStatepressKeyTabaandcharacterandSPACE -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:15:12Z" finished-at="2019-06-18T16:15:12Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:23:10Z" finished-at="2019-06-20T15:23:10Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_18_EditStatepressKeyTabaandcharacterandSPACE status=FAILURE method=EditCustomerScript.TC_18_EditStatepressKeyTabaandcharacterandSPACE()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
+                <![CDATA[[TestResult name=TC_18_EditStatepressKeyTabaandcharacterandSPACE status=SUCCESS method=EditCustomerScript.TC_18_EditStatepressKeyTabaandcharacterandSPACE()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="982" started-at="2019-06-18T16:15:12Z" finished-at="2019-06-18T16:15:13Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="1694" started-at="2019-06-20T15:23:10Z" finished-at="2019-06-20T15:23:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="TC_19_EditEmailpressKeyTabaandcharacterSPACE()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_19_EditEmailpressKeyTabaandcharacterSPACE" duration-ms="53" started-at="2019-06-18T16:15:13Z" finished-at="2019-06-18T16:15:13Z">
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
-	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)
-	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
-	at CommonPage.commonFunction.input(commonFunction.java:83)
-	at com.bankguru.actions.EditCustomer.inputCustomerId(EditCustomer.java:110)
-	at com.bankguru.testcase.EditCustomerScript.TC_19_EditEmailpressKeyTabaandcharacterSPACE(EditCustomerScript.java:331)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
-	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
+        <test-method status="PASS" signature="TC_19_EditEmailpressKeyTabaandcharacterSPACE()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_19_EditEmailpressKeyTabaandcharacterSPACE" duration-ms="2563" started-at="2019-06-20T15:23:12Z" finished-at="2019-06-20T15:23:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_19_EditEmailpressKeyTabaandcharacterSPACE -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-18T16:15:13Z" finished-at="2019-06-18T16:15:13Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=TC_19_EditEmailpressKeyTabaandcharacterSPACE status=FAILURE method=EditCustomerScript.TC_19_EditEmailpressKeyTabaandcharacterSPACE()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="639" started-at="2019-06-18T16:15:13Z" finished-at="2019-06-18T16:15:14Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="beforeMethod" is-config="true" duration-ms="1907" started-at="2019-06-20T15:23:15Z" finished-at="2019-06-20T15:23:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="TC_20_EditEmailwrongemailandspecialCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_20_EditEmailwrongemailandspecialCharacter" duration-ms="47" started-at="2019-06-18T16:15:14Z" finished-at="2019-06-18T16:15:14Z">
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: unknown error: keys should be a string
-  (Session info: chrome=75.0.3770.90)
-  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 0 milliseconds
-Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
-System info: host: 'TY_NGUYEN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\ADMINI~1.TY_\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9491}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.90, webStorageEnabled: true}
-Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
-	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
-	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)
-	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy12.sendKeys(Unknown Source)
-	at CommonPage.commonFunction.input(commonFunction.java:83)
-	at com.bankguru.actions.EditCustomer.inputCustomerId(EditCustomer.java:110)
-	at com.bankguru.testcase.EditCustomerScript.TC_20_EditEmailwrongemailandspecialCharacter(EditCustomerScript.java:352)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:617)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
-	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
-	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_20_EditEmailwrongemailandspecialCharacter -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-06-18T16:15:14Z" finished-at="2019-06-18T16:15:14Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:23:15Z" finished-at="2019-06-20T15:23:15Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC_20_EditEmailwrongemailandspecialCharacter status=FAILURE method=EditCustomerScript.TC_20_EditEmailwrongemailandspecialCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
+                <![CDATA[[TestResult name=TC_19_EditEmailpressKeyTabaandcharacterSPACE status=SUCCESS method=EditCustomerScript.TC_19_EditEmailpressKeyTabaandcharacterSPACE()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterClass" is-config="true" duration-ms="645" started-at="2019-06-18T16:15:14Z" finished-at="2019-06-18T16:15:14Z">
+        <test-method status="PASS" signature="TC_20_EditEmailwrongemailandspecialCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="TC_20_EditEmailwrongemailandspecialCharacter" duration-ms="2621" started-at="2019-06-20T15:23:17Z" finished-at="2019-06-20T15:23:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_20_EditEmailwrongemailandspecialCharacter -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-20T15:23:19Z" finished-at="2019-06-20T15:23:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_20_EditEmailwrongemailandspecialCharacter status=SUCCESS method=EditCustomerScript.TC_20_EditEmailwrongemailandspecialCharacter()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.bankguru.testcase.EditCustomerScript@39aeed2f]" name="afterClass" is-config="true" duration-ms="686" started-at="2019-06-20T15:23:19Z" finished-at="2019-06-20T15:23:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- com.bankguru.testcase.EditCustomerScript -->
       <class name="com.bankguru.testcase.RegisterScript">
-        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bankguru.testcase.RegisterScript@4c70fda8]" name="beforeClass" is-config="true" duration-ms="8789" started-at="2019-06-18T16:11:24Z" finished-at="2019-06-18T16:11:33Z">
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bankguru.testcase.RegisterScript@4c70fda8]" name="beforeClass" is-config="true" duration-ms="33292" started-at="2019-06-20T15:20:09Z" finished-at="2019-06-20T15:20:42Z">
           <params>
             <param index="0">
               <value>
@@ -1840,11 +880,11 @@ Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="TC_01()[pri:0, instance:com.bankguru.testcase.RegisterScript@4c70fda8]" name="TC_01" duration-ms="3694" started-at="2019-06-18T16:11:33Z" finished-at="2019-06-18T16:11:36Z">
+        <test-method status="PASS" signature="TC_01()[pri:0, instance:com.bankguru.testcase.RegisterScript@4c70fda8]" name="TC_01" duration-ms="20474" started-at="2019-06-20T15:20:42Z" finished-at="2019-06-20T15:21:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_01 -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.RegisterScript@4c70fda8]" name="afterMethod" is-config="true" duration-ms="6" started-at="2019-06-18T16:11:36Z" finished-at="2019-06-18T16:11:36Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.bankguru.testcase.RegisterScript@4c70fda8]" name="afterMethod" is-config="true" duration-ms="6" started-at="2019-06-20T15:21:03Z" finished-at="2019-06-20T15:21:03Z">
           <params>
             <param index="0">
               <value>
@@ -1855,7 +895,7 @@ Session ID: 7c0fa658f5dca0e7fb245870d07f1f7a
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.bankguru.testcase.RegisterScript@4c70fda8]" name="afterClass" is-config="true" duration-ms="1222" started-at="2019-06-18T16:11:36Z" finished-at="2019-06-18T16:11:38Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.bankguru.testcase.RegisterScript@4c70fda8]" name="afterClass" is-config="true" duration-ms="1282" started-at="2019-06-20T15:21:03Z" finished-at="2019-06-20T15:21:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

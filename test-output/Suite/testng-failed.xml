@@ -33,7 +33,6 @@
         <methods>
           <include name="beforeMethod"/>
           <include name="beforeClass"/>
-          <include name="TC_27_1_inputEmailnotdoccom"/>
           <include name="afterMethod"/>
           <include name="TC_30_inputnewCustomervalid"/>
           <include name="afterClass"/>

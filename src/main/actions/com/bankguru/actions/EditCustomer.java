@@ -85,7 +85,7 @@ public class EditCustomer extends commonFunction {
 	@FindBy(id = "message18")
 	WebElement PASSWORD_MSG;
 
-	@FindBy(name = "heading3")
+	@FindBy(className = "heading3")
 	WebElement CUSTOMER_REGISTED_SUCCESSFUL;
 
 	@FindBy(xpath = "//td[contains(text(),'Customer ID')]/following-sibling::td")
@@ -99,7 +99,7 @@ public class EditCustomer extends commonFunction {
 		getTextDynamicXpath(value);
 		return getTextDynamicXpath(value);
 	}
-	
+
 	public void pressKeyTabCustomerId(Keys key) {
 		waitVisible(CUSTOMER_ID_TXT);
 		inputKeys(CUSTOMER_ID_TXT, key);

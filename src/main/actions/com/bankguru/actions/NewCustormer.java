@@ -41,7 +41,7 @@ public class NewCustormer extends commonFunction {
 	@FindBy(name = "password")
 	WebElement PASSWORD_TXT;
 
-	@FindBy(css = "input[@value=Submit]")
+	@FindBy(css = "input[value=Submit]")
 	WebElement SUMMIT_BTN;
 
 	@FindBy(className = "heading3")
